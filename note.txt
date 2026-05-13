@@ -9,3 +9,17 @@ stream.com for chat and vedio like messanger
 neon.com for database
 
 clerk.com for login with google
+
+for github, 
+
+git init
+git add .
+git commit -m "initial commit"
+
+create respitory in github
+
+git remote add origin https://github.com/DemonNyan/E-commerce-app.git
+git branch -M main
+git push -u origin main
+
+for ORM => drizzle.com // instead of prisma
